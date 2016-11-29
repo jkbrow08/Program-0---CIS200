@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Prog0Start\Prog0\Prog0\bin\Release\Prog4.exe
+C:\Users\Admin\Desktop\Prog0Start\Prog0\Prog0\bin\Release\Prog4.pdb
+C:\Users\Admin\Desktop\Prog0Start\Prog0\Prog0\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Prog0Start\Prog0\Prog0\obj\x86\Release\Prog4.exe
+C:\Users\Admin\Desktop\Prog0Start\Prog0\Prog0\obj\x86\Release\Prog4.pdb
+C:\Users\Admin\Desktop\Prog0\Prog0\Prog0\obj\x86\Release\Prog4.exe
+C:\Users\Admin\Desktop\Prog0\Prog0\Prog0\obj\x86\Release\Prog4.pdb
+C:\Users\Admin\Desktop\Prog0\Prog0\Prog0\bin\Release\Prog4.exe
+C:\Users\Admin\Desktop\Prog0\Prog0\Prog0\bin\Release\Prog4.pdb
+C:\Users\Admin\Desktop\Prog0\Prog0\Prog0\obj\x86\Release\ResolveAssemblyReference.cache
